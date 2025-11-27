@@ -1,0 +1,22 @@
+# Evidence Placeholders for Terraform Assessment (Without AWS)
+
+Since this project is submitted without AWS account, the following are placeholders:
+
+1. terraform init output:
+(Insert screenshot or copy of terraform init output here)
+
+2. terraform plan output:
+(Insert screenshot or copy of terraform plan output here)
+
+3. terraform apply output:
+(Insert screenshot or copy of terraform apply output here)
+
+4. AWS Console screenshot:
+(Placeholder for screenshots of VPC, Subnets, Security Groups, EC2 instances, ALB)
+
+5. ALB web access:
+(Placeholder showing web access via ALB URL)
+
+6. SSH access:
+(Placeholder showing access to Bastion host, Web servers, and DB server)
+
