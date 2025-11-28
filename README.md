@@ -2,8 +2,6 @@ TechCorp Terraform Assessment (Without AWS)
 
 
 Overview
-
-
 This project demonstrates the deployment of a highly available web application infrastructure using Terraform.
 It includes VPC, subnets, security groups, EC2 instances, and an application load balancer.
 Note: This version is designed for submission and learning purposes without using an AWS account.
@@ -149,14 +147,7 @@ Match the filenames exactly with the Screenshot Path column.
 When AWS account is available, replace placeholders with real screenshots.
 
 
-Notes
-This project is fully beginner-friendly and locally testable.
 
-All Terraform configurations are copy-paste ready.
-
-No AWS account is required to submit this project.
-
-Future deployment will follow the same Terraform setup once credentials are available.
 
 
 
