@@ -6,6 +6,7 @@ Overview
 
 This project demonstrates the deployment of a highly available web application infrastructure using Terraform.
 It includes VPC, subnets, security groups, EC2 instances, and an application load balancer.
+
 Note: This version is designed for submission and learning purposes without using an AWS account.
 All resources, outputs, and configurations are placeholders and do not connect to AWS.
 When I get my AWS account, I will provision and deploy the actual infrastructure following the same Terraform configuration.
@@ -30,10 +31,7 @@ terraform-assessment/
 
 
 
-Instructions to Run Locally (Without AWS)
-terraform init # Initialize Terraform
-terraform plan # Check the plan (simulation)
-terraform apply # Apply (type 'yes' if prompted)
+
 
 
 Install Terraform on your machine.
@@ -147,14 +145,6 @@ Instructions:
 Take screenshots or copy placeholders into the evidence/ folder.
 Match the filenames exactly with the Screenshot Path column.
 When AWS account is available, replace placeholders with real screenshots.
-
-
-Notes
-This project is fully beginner-friendly and locally testable.
-
-All Terraform configurations are copy-paste ready.
-
-No AWS account is required to submit this project.
 
 Future deployment will follow the same Terraform setup once credentials are available.
 
